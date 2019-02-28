@@ -3,5 +3,5 @@
  ls -s /sourcemodule /targetmodule  
  targetmodule = user path like this /usr/bin/..
 ```Node JS
-ln -s /root/bin/nodemon /usr/bin/nodemon
+$ ln -s /root/bin/nodemon /usr/bin/nodemon
 ```
